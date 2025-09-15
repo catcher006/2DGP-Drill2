@@ -11,7 +11,7 @@ y = 90
 time = 0
 angle = 270
 
-while time < 100:
+while time < 50:
     clear_canvas_now()
     grass.draw_now(400, 30)
 
